@@ -1,0 +1,37 @@
+.bg-color{
+    background-color: #c3d7f7;
+}
+.cont_cls{
+    border: 5px solid #808080;
+    border-radius: 10px;
+    background: #e4e6eb;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.cst_div1{
+    width:50%;
+    margin: 0px auto;
+}
+.clear{
+    clear:both;
+}
+.ht_20{
+    height:20px;
+}
+.ht_250{
+    height:250px;
+}
+.ht_383{
+    height:383px;
+}
+.footer_stl1{
+    background-color: #222;
+    color: white;
+    padding: 15px;
+}
+.ht_50{
+    height:50px;
+}
+.ht_100{
+    height:100px;
+}
